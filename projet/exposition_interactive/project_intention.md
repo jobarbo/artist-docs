@@ -1,0 +1,9 @@
+De l’impression à la performance Ma trajectoire artistique a longtemps été centrée sur la création numérique et l’impression, et cette résidence représente une opportunité de transformation significative. Mon objectif avec la Charpente est de faire évoluer mes œuvres vers des espaces de performance en direct, en intégrant des dimensions interactives et dynamiques.
+
+Inspiré par toutes les facettes des médias numériques, je souhaite explorer des moyens novateurs de connecter mes créations à des données en temps réel : sons, mouvements, interactions tactiles et techniques de vidéo mapping. Ces médiums offrent une dimension vivante et organique que je n’ai jusqu’à présent pas pleinement explorée.
+
+Le code demeure ma passion fondamentale, mais je désire désormais le transformer d’un langage de conception statique en un outil de performance interactive. Mon intention est de créer des œuvres qui respirent, qui réagissent et qui évoluent en fonction de leur environnement, afin d’évoquer directement des réactions et des émotions chez les participants.
+
+Le résultat de cette résidence serait une exposition d’œuvres interactives où les participants influenceraient eux-mêmes les œuvres (par exemple, via des micros, des capteurs de mouvement). Après la période d’exposition, les œuvres deviendraient statiques. Chaque version finale sera le témoin unique des interactions qui l’ont générée, ajoutant le public lui-même comme un co-créateur inattendu. L’œuvre conservera ainsi la mémoire de son processus de création, rendant visible l’influence collective qui l’a façonnée.
+
+Cette résidence est une excellente opportunité pour moi de laisser libre cours à mes explorations et recherches, un espace où je peux sortir de ma zone de confort, expérimenter librement et intégrer de nouvelles dimensions à mon travail artistique.
