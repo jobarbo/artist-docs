@@ -1,4 +1,4 @@
-## Mon processus créatif
+## Jonathan Barbeau - Processus créatif
 
 Nourri par une profonde passion pour le monde naturel et ses phénomènes, j'utilise JavaScript comme langage de programmation pour exprimer ma créativité et explorer les mécanismes naturels. Ma formation de développeur web a débuté lors d'un cours d'exploration au Cégep de Sainte-Foy, il y a huit ans, et depuis, mon approche artistique n'a cessé d'évoluer.
 
