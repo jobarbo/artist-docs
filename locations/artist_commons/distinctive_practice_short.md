@@ -1,0 +1,9 @@
+What feels most distinctive about my practice is its versatility across contexts and collaborations. While I'm rooted in algorithmic art using JavaScript, my work adapts to vastly different scales and mediums—from prints to large-scale public installations, from static compositions to live performance.
+
+I've created responsive art installations for commercial spaces like Sartoro Geneve in Dubai, where the work needed to function as both art and spatial experience. I've collaborated with dancers in Germany for the Interfaces collection at the Opéra National de Hanovre, using motion capture to translate choreography into generative compositions.
+
+I'm currently in an artist residency in Quebec City with a writer, exploring anémoïa—nostalgia for a time or place you've never known. Combining poetry, photography, and generative art through nocturnal urban explorations.
+
+I'm also developing a live performance system that connects MIDI controllers to shader filters, allowing me to reinterpret my generative work in real-time while responding to the sound of musical artists and the audience presence and rythm.
+
+This ability to move fluidly between solitary practice and collaborative creation, between permanent installations and ephemeral performance, feels like what sets my work apart. The algorithmic foundation remains constant, but the work transforms to meet each context and collaborator halfway. Collaboration introduces chaos from other people's lives, perspectives, and disciplines into my structured systems, while my creative chaos nourishes their practice in return. A dancer's movement, a writer's words, a musician's rhythm—these external forces push my work into new territories, just as my generative systems offer them new ways to see their own work. It's this reciprocal exchange that builds something far more compelling than any single vision could achieve, the result belongs to the space we create together.
